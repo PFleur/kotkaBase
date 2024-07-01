@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/kotka",
+		"value" : {
+			"aiFrames" : "kotkaAI.png",
+			"portraitFrames" : "portraits/kotkaportrait.png",
+			"staticFrames" : "statickotka.png"	
+		}
+	}
+]

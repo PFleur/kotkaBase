@@ -1,0 +1,24 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel"],
+      "maxFuel" : 1000,
+      "crewSize" : 2
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "kotkaT2.png",
+      "position" : [8, 14],
+      "fullbright" : true
+    },
+    {
+      "image" : "kotkaT2lit.png",
+      "position" : [8, 14]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "kotkaT2blocks.png"
+}

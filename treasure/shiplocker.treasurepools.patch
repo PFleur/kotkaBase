@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/kotkaStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"},
+        {"item" : [ "pfktt0bloodsabre", 1 ]}
+      ]
+    }]]
+  }
+]

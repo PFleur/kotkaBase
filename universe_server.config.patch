@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/kotka",
+		"value" : [
+		    "/ships/kotka/kotkat0.structure",
+			"/ships/kotka/kotkat1.structure",
+			"/ships/kotka/kotkat2.structure",
+			"/ships/kotka/kotkat3.structure",
+			"/ships/kotka/kotkat4.structure",
+			"/ships/kotka/kotkat5.structure",
+			"/ships/kotka/kotkat6.structure",
+			"/ships/kotka/kotkat7.structure",
+			"/ships/kotka/kotkat8.structure"
+		]
+	}
+]

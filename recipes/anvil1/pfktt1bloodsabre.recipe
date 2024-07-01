@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "leather", "count" : 1 },
+    { "item" : "pfktt0bloodsabre", "count" : 1}
+  ],
+  "output" : { "item" : "pfktt1bloodsabre", "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}

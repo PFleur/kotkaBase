@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/kotka",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/kotka",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]
