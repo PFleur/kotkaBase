@@ -1,3 +1,3 @@
 [
-  { "op" : "add", "path" : "/bloodcharge", "value" : "/items/active/weapons/melee/abilities/broadsword/bloodcharge/bloodcharge.weaponability" }
+  { "op" : "add", "path" : "/pfktbloodcharge", "value" : "/items/active/weapons/melee/abilities/broadsword/pfktbloodcharge/pfktbloodcharge.weaponability" }
 ]

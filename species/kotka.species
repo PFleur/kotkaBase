@@ -9,7 +9,7 @@
   "ouchNoises" : [ "/sfx/humanoid/kotkahurt_male2.ogg", "/sfx/humanoid/kotkahurt_female2.ogg" ],
   "charGenTextLabels" : [ "Body Colour", "Fur Style", "Tops", "Bottoms", "Placeholder", "Fur Colour", "Tops Colour", "Bottoms Colour", "Kosmiczna Kota", "Personality" ],
   "skull" : "/humanoid/kotka/dead.png",
-  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "effectDirectives" : "?replace=FEFFFFFF=ebd9d9FF?replace=9bd4ffFF=a85251FF?replace=31a6ffFF=572524FF",
   "defaultBlueprints" : {
     "tier1" : [
 	
