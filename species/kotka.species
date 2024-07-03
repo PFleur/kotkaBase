@@ -3,9 +3,9 @@
 	"charCreationTooltip" : {
 	"title" : "kotka",
 	"subTitle" : "K",
-	"description" : "Sapphic space cats with magick."
+	"description" : "A nomadic people the Kosmiczna Kotki wander the stars on vast starships. What happened to their birth planet is unknown but there seems to be little nostalgia for terrestrial life as there has been little in way of planetary settlement since."
   },
-  "nameGen" : [ "/species/kotkamalenamegen.config:names", "/species/kotkafemalenamegen.config:names" ],
+  "nameGen" : [ "/species/kotkasolnamegen.config:names", "/species/kotkalunanamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/kotkahurt_male2.ogg", "/sfx/humanoid/kotkahurt_female2.ogg" ],
   "charGenTextLabels" : [ "Body Colour", "Fur Style", "Tops", "Bottoms", "Placeholder", "Fur Colour", "Tops Colour", "Bottoms Colour", "Kosmiczna Kota", "Personality" ],
   "skull" : "/humanoid/kotka/dead.png",
@@ -24,7 +24,9 @@
       { "item" : "humantier2chest" },
       { "item" : "humantier2pants" },
 
+      { "item" : "pfktt0bloodsabre" },
       { "item" : "pfktt1bloodsabre" },
+      { "item" : "pfktt2bloodsabre" },
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
       { "item" : "tungstenaxe" },
@@ -38,6 +40,7 @@
       { "item" : "humantier4chest" },
       { "item" : "humantier4pants" },
 
+      { "item" : "pfktt3bloodsabre" },
       { "item" : "titaniumdagger" },
       { "item" : "titaniumspear" },
       { "item" : "durasteelbroadsword" },

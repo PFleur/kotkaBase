@@ -1,9 +1,10 @@
 {
   "itemName" : "pfktt1bloodsabre",
+  "level" : 1,
   "price" : 500,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A old and used sabre, perhaps with work it can be more than usable.",
+  "description" : "'Restoring a weapon, while difficult, is certainly possible. More importantly is how much of the original relic is required for it to still be such.' — Excerpt from a meeting of the Commissariat of Historical Preservation",
   "shortdescription" : "Basic Bloodsabre",
   "tooltipKind" : "sword",
   "category" : "broadsword",
@@ -12,7 +13,7 @@
 
   "inventoryIcon" : "pfktt1bloodsabre.png",
 
-  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animation" : "/items/active/weapons/melee/broadsword/pfktbloodsabre.animation",
   "animationParts" : {
     "handle" : "",
     "blade" : "pfktt1bloodsabre.png"
@@ -23,7 +24,7 @@
 
   "elementalType" : "physical",
 
-  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbilityType" : "pfktsabrecombo",
   "primaryAbility" : {
     "fireTime" : 0.50,
     "baseDps" : 12

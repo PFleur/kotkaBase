@@ -1,9 +1,10 @@
 {
   "itemName" : "pfktt0bloodsabre",
+  "level" : 1,
   "price" : 500,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A old and used sabre, perhaps with work it can be more than usable.",
+  "description" : "'Child, to think you can defeat me with such a blade? Such is the greatest insult today!' — Book of the Clans",
   "shortdescription" : "Broken Bloodsabre",
   "tooltipKind" : "sword",
   "category" : "broadsword",
@@ -23,10 +24,10 @@
 
   "elementalType" : "physical",
 
-  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbilityType" : "pfktsabrecombo",
   "primaryAbility" : {
     "fireTime" : 0.50,
-    "baseDps" : 8
+    "baseDps" : 6
   },
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
