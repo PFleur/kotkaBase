@@ -5,7 +5,8 @@
 	"subTitle" : "K",
 	"description" : "A nomadic people the Kosmiczna Kotki wander the stars on vast starships. What happened to their birth planet is unknown but there seems to be little nostalgia for terrestrial life as there has been little in way of planetary settlement since."
   },
-  "nameGen" : [ "/species/kotkasolnamegen.config:names", "/species/kotkalunanamegen.config:names" ],
+//  "nameGen" : [ "/species/kotkasolnamegen.config:names", "/species/kotkalunanamegen.config:names" ],
+  "nameGen" : [ "/species/kotkanamegen.config:names", "/species/kotkanamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/kotkahurt_male2.ogg", "/sfx/humanoid/kotkahurt_female2.ogg" ],
   "charGenTextLabels" : [ "Body Colour", "Fur Style", "Tops", "Bottoms", "Placeholder", "Fur Colour", "Tops Colour", "Bottoms Colour", "Kosmiczna Kota", "Personality" ],
   "skull" : "/humanoid/kotka/dead.png",
