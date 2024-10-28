@@ -26,7 +26,7 @@
       "imageLayers" : [ { "image" : "kotkashiplocker.png:<color>.<frame>", "fullbright" : true }, { "image" : "kotkashiplockerlit.png:<color>.<frame>" } ],
       "imagePosition" : [-16, -8],
       "frames" : 8,
-      "animationCycle" : 1.0,
+      "animationCycle" : 6,
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
     }

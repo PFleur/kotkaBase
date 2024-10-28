@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "description" : "'Restoring a weapon, while difficult, is certainly possible. More importantly is how much of the original relic is required for it to still be such.' — Excerpt from a meeting of the Commissariat of Historical Preservation",
   "shortdescription" : "Basic Bloodsabre",
-  "tooltipKind" : "sword",
+  "tooltipKind" : "pfKotkaSword",
   "category" : "broadsword",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","broadsword"],
