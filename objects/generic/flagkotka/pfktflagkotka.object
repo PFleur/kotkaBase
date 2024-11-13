@@ -38,7 +38,7 @@
       "anchors" : [ "bottom" ]
     },
     {
-      "image" : "[pfktflagkotka.png:<color>.<frame>",
+      "image" : "pfktflagkotka.png:<color>.<frame>",
       "direction" : "right",
       "imagePosition" : [1, 0],
       "frames" : 6,
